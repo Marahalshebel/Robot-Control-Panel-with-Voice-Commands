@@ -38,11 +38,12 @@ A web-based robot control panel that allows users to control a robot using both 
 ## Output Screenshots
 
 ### Screenshot 1
+STOP
 
 ![Screenshot 1](Screenshot1.png)
 
 ### Screenshot 2
-
+LEFT
 ![Screenshot 2](Screenshot2.png)
 
 ---
