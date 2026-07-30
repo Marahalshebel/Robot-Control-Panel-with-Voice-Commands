@@ -38,10 +38,12 @@ A web-based robot control panel that allows users to control a robot using both 
 ## Output Screenshots
 
 ### Screenshot 1
-*(Add image here)*
+
+![Screenshot 1](Screenshot1.png)
 
 ### Screenshot 2
-*(Add image here)*
+
+![Screenshot 2](Screenshot2.png)
 
 ---
 
@@ -50,7 +52,7 @@ A web-based robot control panel that allows users to control a robot using both 
 **Website**
 
 [https://marah.freedev.app/Task3/
-](https://marah.freedev.app/Task3/)---
+](https://marah.freedev.app/Task3/)
 
 ## Robot State
 https://marah.freedev.app/Task3/get_state.php
@@ -69,7 +71,3 @@ https://marah.freedev.app/Task3/get_state.php
 6. The robot state is updated automatically.
 
 ---
-
-## Author
-
-Marah Alshebel
